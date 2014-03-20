@@ -1,0 +1,23 @@
+{
+  "name": "github-hooks-testing",
+  "version": "0.0.0",
+  "description": "github-hooks-testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/startup start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/camshaft/github-hooks-testing.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/camshaft/github-hooks-testing/issues"
+  },
+  "homepage": "https://github.com/camshaft/github-hooks-testing",
+  "dependencies": {
+    "startup": "~0.3.0",
+    "simple-stack-common": "~0.2.3"
+  }
+}
